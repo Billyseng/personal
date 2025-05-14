@@ -1,4 +1,4 @@
-For you
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -8,7 +8,7 @@ For you
   </head>
   <body>
     <body class="not-loaded">
-      <div class="night">
+      <div class="night"></div>
       <div class="flowers">
         <div class="flower flower--1">
           <div class="flower__leafs flower__leafs--1">
