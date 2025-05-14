@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -312,5 +312,10 @@
       </div>
     </body>
     <script src="purple-flowers.js"></script>
+    </div> <!-- closing the .flowers container -->
+
+      <p class="flower-message">here flower for you! because you deserve it</p>
+
+    </body>
   </body>
 </html>
